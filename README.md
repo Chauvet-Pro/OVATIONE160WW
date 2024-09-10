@@ -3,7 +3,7 @@
 ## Software Versions
 
 [V2.3.0 - Ovation E-160WW](https://github.com/Chauvet-Pro/OVATIONE160WW/blob/e26a5795c4c18c962b4522b346718ec0760dd3a4/firmware/V2.3.0.zip)
-- ***NOTE: This software update is for the -2 version of the fixtures, but is also backwards compatible and can be used with the original version.***
+- ***NOTE: This software update is for the -2 version of the fixture, but is also backwards compatible and can be used with the original version.***
 - Updated to expand UID range for "-2" fixtures
 - Converted software file name to new version numbering scheme
 
