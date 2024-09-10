@@ -1,5 +1,8 @@
 # Ovation E-160WW
 
+### ***Please use UPLOAD 03 to update the Ovation E-160WW software, or to fix partial or total firmware failure.***
+&nbsp;
+
 ## Software Versions
 
 [V2.3.0 - Ovation E-160WW](https://github.com/Chauvet-Pro/OVATIONE160WW/blob/e26a5795c4c18c962b4522b346718ec0760dd3a4/firmware/V2.3.0.zip)
